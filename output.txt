@@ -1,0 +1,34 @@
+          SYMBOL TABLE          
+IDENTIFIER          MEM LOCATION
+a                   5000
+b                   5001
+c                   5002
+d                   5003
+e                   5004
+f                   5005
+
+ASSEMBLY INSTRUCTIONS
+PUSHM     5000
+ADD       nil
+ADD       nil
+ADD       nil
+ADD       nil
+PUSHM     5001
+SUB       nil
+SUB       nil
+SUB       nil
+SUB       nil
+PUSHM     5002
+MUL       nil
+MUL       nil
+MUL       nil
+PUSHM     5003
+DIV       nil
+DIV       nil
+DIV       nil
+PUSHM     5004
+MUL       nil
+MUL       nil
+MUL       nil
+PUSHM     5005
+ACCEPTED
